@@ -5,11 +5,11 @@ Hi there! I'm Pranay, a passionate tech enthusiast and learner currently pursuin
 
 - 🌱 I’m currently learning **Mongo Db, Angular, React-Native**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-new-one-eta.vercel.app/](https://portfolio-new-one-eta.vercel.app/)
+- 👨‍💻 All of my projects are available at [Project's](https://portfolio-new-one-eta.vercel.app/)
 
 - 📫 How to reach me **prasadpranay2005@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-new-one-eta.vercel.app/Pranay_resume.pdf](https://portfolio-new-one-eta.vercel.app/Pranay_resume.pdf)
+- 📄 Know about my experiences [My Resume](https://portfolio-new-one-eta.vercel.app/Pranay_resume.pdf)
 
 - ⚡ Fun fact **I think I am funny!**
 
