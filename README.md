@@ -1,16 +1,51 @@
-# Hey 👋, I'm Pranay!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
-I'm Pranay, a passionate **tech enthusiast and learner** pursuing my **Bachelor's in Computer Applications (BCA)**. 🚀  
-I love building projects that solve real-world problems — from **web & app development** to innovative **software solutions**. 🧑‍💻  
+<div align="center">
+  <a href="[https://bento.me/kenangain](https://pranay-portfolio-gamma.vercel.app/)">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=30&duration=4500&pause=1000&color=5c7cfa&lines=Hey%2C+👋+I'm+Pranay+Prasad;Full+Stack+Web+Developer;Flutter+Developer" alt="Hey 👋, I am Pranay!"/>
+  </a>
+</div>
 
-Currently working with **Python, C, C++, Dart (Flutter)**, and always exploring **new frameworks, libraries, and tools**. 🌱  
-Apart from coding, I enjoy **creating projects, digital content, and exploring AI & emerging technologies**.  
-
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=pranayvips&label=Profile%20views&color=0e75b6&style=flat" alt="pranayvips" /> 
+<p align="center">
+  Full Stack Developer | Website | Android | Tech Enthusiast
 </p>
 
----
+<br>
+
+## 🙂 About Me
+Pursuing BCA (2026) with a strong interest in web and app development. I enjoy building real-world applications that focus on clean code, performance, and practical usability.
+
+I currently work with technologies like React & Flutter, and I’m continuously expanding my skills in full-stack development and software engineering concepts. I believe in learning by building — turning ideas into functional products while following best practices.
+
+Currently, I focus on strengthening my problem-solving skills, exploring modern development tools, and creating projects that reflect clarity, scalability, and real-world relevance. 
+
+<br>
+
+## 🥽 My Skills
+
+### Programming Languages
+[![programming languages](https://skillicons.dev/icons?i=py,java,c,typescript,cpp,)](https://skillicons.dev)
+
+### Web Developement
+[![programming languages](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,vite,angular,express,nodejs,flask,django,php,mysql,mongodb,postgresql)](https://skillicons.dev)
+
+### App Developement
+[![programming languages](https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase)](https://skillicons.dev)
+
+### Others
+[![programming languages](https://skillicons.dev/icons?i=vscode,github,figma,ubuntu,netlify,vercel,npm,canva)](https://skillicons.dev)
+
+<br>
+
+## 🌐 Connect with Me
+
+| My Website | YouTube | Instagram | LinkedIn | Email |
+| --- | --- | --- | --- | --- |
+| [![Pranay](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Portfolio&size=square)](https://pranay-portfolio-gamma.vercel.app/) | [![Pranay](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCMqkUtRCY6yT6PTEPVP3o4w&subtitle=@pranay-prasad&size=square)](https://www.youtube.com/channel/UCMqkUtRCY6yT6PTEPVP3o4w) | [![Pranay](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fpranayy.c3%2F&subtitle=pranayy.c3&size=square)](https://www.instagram.com/pranayy.c3/) | [![Pranay](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpranay-prasad-%2F&subtitle=pranay-prasad-&size=square)](https://www.linkedin.com/in/pranay-prasad-/) | [![Pranay](https://bentos.jkominovic.dev/api/v1/bento-cards?url=prasadpranay2005%40gmail.com&subtitle=prasadpranay2005@gmail.com&size=square)](prasadpranay2005@gmail.com) |
+
+
+<br>
+
 
 ## 🌱 Currently Learning
 - **Angular & React Native**
@@ -26,58 +61,26 @@ Check out all my projects [here](https://pranay-portfolio-gamma.vercel.app/)
 - **Twitter/X:** [@Pranay4862](https://twitter.com/Pranay4862)  
 - **Portfolio:** [pranay](https://pranay-portfolio-gamma.vercel.app/)  
 
----
 
-## 🧰 Tech Stack
+## my top repos
+gif here of content
+to update tomm
 
-### Languages
-<p align="left"> 
-<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
-<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> 
-<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/> 
-<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
-<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
-<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> 
-<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> 
-<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/> 
-</p>
+## certificates
 
-### Frameworks & Libraries
-<p align="left"> 
-<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/> 
-<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/> 
-<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/> 
-<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/> 
-<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/> 
-<img width="80" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png"/> 
-</p>
-
-### Databases & Cloud
-<p align="left"> 
-<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> 
-<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> 
-<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/> 
-<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/> 
-</p>
-
-### Tools & IDEs
-<p align="left"> 
-<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> 
-<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> 
-<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> 
-<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/> 
-<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/> 
-<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> 
-</p>
+## research paper 
+reviewlens 
 
 ---
-
-## 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranayvips&show_icons=true&locale=en&layout=compact" alt="pranayvips" />
-</p>
-
+downlod resume button and website link button
 ---
+add education 
+#todo tomm
 
-### 🎯 Fun Fact
-I like to think I'm funny 😎 and love exploring new tech ideas!
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
