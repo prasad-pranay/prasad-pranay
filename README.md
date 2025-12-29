@@ -13,10 +13,10 @@ Apart from coding, I enjoy **creating projects, digital content, and exploring A
 ---
 
 ## 🌱 Currently Learning
-- **MongoDB, Angular, React Native**
+- **Angular & React Native**
 
 ## 💻 Projects
-Check out all my projects [here](https://portfolio-new-one-eta.vercel.app/)
+Check out all my projects [here](https://pranay-portfolio-gamma.vercel.app/)
 
 ## 📫 Contact Me
 - **Email:** prasadpranay2005@gmail.com  
@@ -24,7 +24,7 @@ Check out all my projects [here](https://portfolio-new-one-eta.vercel.app/)
 - **LinkedIn:** [pranay-prasad-](https://www.linkedin.com/in/pranay-prasad-/)  
 - **Instagram:** [@https.pranay.in](https://www.instagram.com/pranayy.c3/)  
 - **Twitter/X:** [@Pranay4862](https://twitter.com/Pranay4862)  
-- **Portfolio:** [pranay](https://portfolio-new-one-eta.vercel.app/)  
+- **Portfolio:** [pranay](https://pranay-portfolio-gamma.vercel.app/)  
 
 ---
 
