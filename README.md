@@ -20,7 +20,7 @@ I currently work with technologies like React and Flutter, and I’m continuousl
 Currently, I focus on strengthening my problem-solving skills, exploring modern development tools, and creating projects that reflect clarity, scalability, and real-world relevance. 
 
 <p align="center">
-  <a href="https://pranay-portfolio-gamma.vercel.app/Pranay_Resume.pdf"><img src="https://raw.githubusercontent.com/aerogluMU/aerogluMU/main/src/CV_Button_v5.png" height="50px" /></a>
+  <a href="https://pranay-portfolio-gamma.vercel.app/pranay_resume.pdf"><img src="https://raw.githubusercontent.com/aerogluMU/aerogluMU/main/src/CV_Button_v5.png" height="50px" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- <a href="https://pranay-portfolio-gamma.vercel.app/"><img src="https://coopanmyer.weebly.com/uploads/1/4/1/7/14175433/button-portfolio_1_orig.png" height="50px" /></a> -->
   <a href="https://pranay-portfolio-gamma.vercel.app/"><img src="https://images.squarespace-cdn.com/content/v1/63bddae08a141a597c7a6ad2/1706289027358-W5KLDOZRU2O28GXWE8OD/PortfolioButton.png?format=1000w" height="70px" /></a>
@@ -50,30 +50,27 @@ Currently, I focus on strengthening my problem-solving skills, exploring modern 
 | --- | --- | --- | --- | --- |
 | [![Pranay](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Portfolio&size=square)](https://pranay-portfolio-gamma.vercel.app/) | [![Pranay](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCMqkUtRCY6yT6PTEPVP3o4w&subtitle=@pranay-prasad&size=square)](https://www.youtube.com/channel/UCMqkUtRCY6yT6PTEPVP3o4w) | [![Pranay](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fpranayy.c3%2F&subtitle=pranayy.c3&size=square)](https://www.instagram.com/pranayy.c3/) | [![Pranay](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpranay-prasad-%2F&subtitle=pranay-prasad-&size=square)](https://www.linkedin.com/in/pranay-prasad-/) | [![Pranay](https://bentos.jkominovic.dev/api/v1/bento-cards?url=prasadpranay2005%40gmail.com&subtitle=prasadpranay2005@gmail.com&size=square)](prasadpranay2005@gmail.com) |
 
-
 <br>
-
-
-## 🌱 Currently Learning
-[![programming languages](https://skillicons.dev/icons?i=angular,docker)](https://skillicons.dev)
-
-
-<br>
-
 
 ## 🖥️ My Top Repository
 
 ### 🌐 Web Developement
-|Project|Description|
+|**Preview**|**Project Description**|
 |-------|-----------|
-| <img src="/data/shoestop.gif">| <div> <h1> ShoeStop<h1>[![tech used](https://skillicons.dev/icons?i=html,css,js,nodejs,express,vscode,github,figma)](https://skillicons.dev)</div>|
+| <img src="/data/curease.gif" width="250px">|  <h1> CurEase &nbsp; <img src="https://cdn.iconscout.com/icon/free/png-256/free-github-logo-icon-svg-download-png-8630395.png" height="25px"> <h1>[![tech used](https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,py,firebase,mongodb,flask,gmail,ai,npm)](https://skillicons.dev) <h6> An AI-powered healthcare app for symptom analysis, medical report management, nutrition insights, and doctor–patient connectivity.</h6>|
+| <img src="/data/ricaHomepage.gif" width="250px">|  <h1> Rica (Browser Home Page) &nbsp; <img src="https://cdn.iconscout.com/icon/free/png-256/free-github-logo-icon-svg-download-png-8630395.png" height="25px"><h1>[![tech used](https://skillicons.dev/icons?i=html,css,js,react,vscode,github)](https://skillicons.dev) <h6> A customizable browser home page that replaces the new tab with a clean, minimal dashboard featuring quick links, search access, and a responsive layout for everyday productivity.</h6>|
+| <img src="/data/reviewlens.gif" width="250px">|  <h1> ReviewLens &nbsp; <img src="https://cdn.iconscout.com/icon/free/png-256/free-github-logo-icon-svg-download-png-8630395.png" height="25px"><h1>[![tech used](https://skillicons.dev/icons?i=html,css,js,flask,py,vscode)](https://skillicons.dev) <h6> AI-powered sentiment analysis tool that compares multiple brands using customer reviews, NLP (VADER), and data visualization to support smarter purchasing decisions.</h6>|
+| <img src="/data/shoestop.gif" width="250px">|  <h1> ShoeStop &nbsp; <img src="https://cdn.iconscout.com/icon/free/png-256/free-github-logo-icon-svg-download-png-8630395.png" height="25px"><h1>[![tech used](https://skillicons.dev/icons?i=html,css,js,nodejs,express,vercel,vscode,github,figma)](https://skillicons.dev) <h6> A modern, responsive shoe selling platform with cart tracking, simulated payments, and user authentication, designed with a clean UI and built using Node.js and vanilla web technologies.</h6>|
 
 <br>
+
 ### 📱 App Developement
 
+|<img src="/data/ricapdf.gif" width="150px">|<img src="/data/myhome.gif" width="150px">|<img src="/data/youtube.gif" width="150px">|
+|-----|-----|-----|
+|<h1>Rica (File Viewer)</h1>[![tech used](https://skillicons.dev/icons?i=flutter,dart,vscode,github)](https://skillicons.dev)<h6>A multi-format file viewer application that supports opening PDF, Word, PPT, and other document types, along with essential PDF tools for viewing and basic document handling.</h6>|<h1>MyHome</h1>[![tech used](https://skillicons.dev/icons?i=flutter,dart,firebase,vscode,github.vercel)](https://skillicons.dev)<h6>A smart companion app that turns your phone into a remote controller for your PC, combining productivity tools like notes, reminders, drawing, music control, and expense management in one platform.</h6>|<h1>Youtube Clone</h1>[![tech used](https://skillicons.dev/icons?i=flutter,dart,js,vscode)](https://skillicons.dev)<h6>A Flutter-based YouTube clone featuring ad-free video playback, search suggestions, watch history, subscriptions, and basic video analytics, built with a clean and responsive UI.</h6>|
 
 <br>
-
 
 ## 📄 Certificates
 | **Data Science with Python** | **Data Structures & Algorithms** |
