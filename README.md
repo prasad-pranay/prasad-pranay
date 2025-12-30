@@ -15,9 +15,16 @@
 ## 🙂 About Me
 Pursuing BCA (2026) with a strong interest in web and app development. I enjoy building real-world applications that focus on clean code, performance, and practical usability.
 
-I currently work with technologies like React & Flutter, and I’m continuously expanding my skills in full-stack development and software engineering concepts. I believe in learning by building — turning ideas into functional products while following best practices.
+I currently work with technologies like React and Flutter, and I’m continuously expanding my skills in full-stack development and software engineering concepts. I have previous experience with Python and Java, and I am also confident in C and C++. I believe in learning by building—turning ideas into functional products while following best practices.
 
 Currently, I focus on strengthening my problem-solving skills, exploring modern development tools, and creating projects that reflect clarity, scalability, and real-world relevance. 
+
+<p align="center">
+  <a href="https://pranay-portfolio-gamma.vercel.app/Pranay_Resume.pdf"><img src="https://raw.githubusercontent.com/aerogluMU/aerogluMU/main/src/CV_Button_v5.png" height="50px" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- <a href="https://pranay-portfolio-gamma.vercel.app/"><img src="https://coopanmyer.weebly.com/uploads/1/4/1/7/14175433/button-portfolio_1_orig.png" height="50px" /></a> -->
+  <a href="https://pranay-portfolio-gamma.vercel.app/"><img src="https://images.squarespace-cdn.com/content/v1/63bddae08a141a597c7a6ad2/1706289027358-W5KLDOZRU2O28GXWE8OD/PortfolioButton.png?format=1000w" height="70px" /></a>
+</p>
 
 <br>
 
@@ -48,39 +55,93 @@ Currently, I focus on strengthening my problem-solving skills, exploring modern 
 
 
 ## 🌱 Currently Learning
-- **Angular & React Native**
+[![programming languages](https://skillicons.dev/icons?i=angular,docker)](https://skillicons.dev)
 
-## 💻 Projects
-Check out all my projects [here](https://pranay-portfolio-gamma.vercel.app/)
+
+<br>
+
+
+## 🖥️ My Top Repository
+
+### 🌐 Web Developement
+|Project|Description|
+|-------|-----------|
+| <img src="/data/shoestop.gif">| <div> <h1> ShoeStop<h1>[![tech used](https://skillicons.dev/icons?i=html,css,js,nodejs,express,vscode,github,figma)](https://skillicons.dev)</div>|
+
+<br>
+### 📱 App Developement
+
+
+<br>
+
+
+## 📄 Certificates
+| **Data Science with Python** | **Data Structures & Algorithms** |
+|------------|----------|
+| <img src="/data/IBM PY0101EN Certificate _ IBM SkillsBuild_page-0001 (1).jpg" width="100%"> |  <img src="/data/UC-f0609941-facd-4ff1-a30d-ba120854ee24.jpg" width="100%">  |
+| | |
+| <img src="/data/UC-70300efa-b8e6-464d-93e6-b857ce48bb37.jpg" width="100%"> | <img src="/data/UC-c1043a1e-ab28-4d23-b0b1-33311f6ef254_page-0001.jpg" width="100%">  |
+| **Responsive Frontend Design** | **MERN Stack with Angular** |
+
+
+<br>
+
+
+## 🧑‍💻 Research Paper
+
+### 📄 Review Lens:  AI-Powered Sentiment Analysis for Brand Comparison &nbsp;&nbsp;&nbsp;  [🔗 View](https://paper-link.com)  
+**Domain:** Artificial Intelligence · Data Science · Natural Language Processing · E-commerce Analytics
+<br>
+**Year:** 2025  
+
+**Description:**
+AI-powered sentiment analysis tool that compares multiple brands using customer reviews, NLP (VADER), and data visualization to support smarter purchasing decisions.
+**Keywords:** Sentiment Analysis, NLP, VADER, Web Scraping, Brand Comparison, Consumer Decision-Making
+
+| Certificate | Links |
+| --- | --- |
+|  <div align="center"><img src="/data/48_Pranay_page-0003.jpg" width="50%"></div> | <div> <a href="https://github.com/prasad-pranay/reviewlens"> <p>Repository Link</p> <img src="https://miro.medium.com/v2/resize:fit:1200/1*JLYlSLSK8-AZo8gt9UdYqA.jpeg" width="250px" ></a> <br><br><br><a href="http://pranay-portfolio-gamma.vercel.app/reviewlens-paper.pdf"> <p>View Research Paper</p><img src="https://www.sd43.bc.ca/school/pinetree/PublishingImages/button_view_here.png" width="250px" ></a>  </div> |
+
 
 ## 📫 Contact Me
-- **Email:** prasadpranay2005@gmail.com  
-- **Resume:** [View My Resume](https://portfolio-new-one-eta.vercel.app/Pranay_resume.pdf)  
-- **LinkedIn:** [pranay-prasad-](https://www.linkedin.com/in/pranay-prasad-/)  
-- **Instagram:** [@https.pranay.in](https://www.instagram.com/pranayy.c3/)  
-- **Twitter/X:** [@Pranay4862](https://twitter.com/Pranay4862)  
-- **Portfolio:** [pranay](https://pranay-portfolio-gamma.vercel.app/)  
+<div align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=prasadpranay2005@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/960px-Gmail_icon_%282020%29.svg.png" height="60px" >
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/pranay-prasad-/">
+    <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=s256-rw" height="60px" >
+  </a>
+  &nbsp;
+  <a href="http://wa.me/+916203241318">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png" height="60px" >
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/pranayy.c3/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" height="60px" >
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/channel/UCMqkUtRCY6yT6PTEPVP3o4w">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/960px-YouTube_full-color_icon_%282017%29.svg.png" height="60px" >
+  </a>
+  &nbsp;
+  <a href="https://x.com/Pranay4862">
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145812.png" height="60px" >
+  </a>
+  &nbsp;
+  <a href="https://www.reddit.com/user/ZealousidealStep900/">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/reddit-square-color-icon.png" height="60px" >
+  </a>
+  &nbsp;
+  <a href="https://pranay-portfolio-gamma.vercel.app/">
+    <img src="https://cdn-icons-png.flaticon.com/512/5339/5339181.png" height="60px" >
+  </a>
+  &nbsp;
+  <a href="https://pranay-portfolio-gamma.vercel.app/pranay_resume.pdf">
+    <img src="https://www.freeiconspng.com/uploads/resume-icon-png-1.png" height="60px" >
+  </a>
+</div>
 
 
-## my top repos
-gif here of content
-to update tomm
-
-## certificates
-
-## research paper 
-reviewlens 
-
----
-downlod resume button and website link button
----
-add education 
-#todo tomm
-
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
